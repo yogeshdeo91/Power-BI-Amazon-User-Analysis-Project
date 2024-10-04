@@ -2,7 +2,7 @@
 
 This project is to showcase PowerBI Skills performed on a dataset.
 
-### (From the Website) The Amazon Prime Users Dataset contains information about 2500 fictional users of the Amazon Prime subscription service. 
+### The Amazon Prime Users Dataset contains information about 2500 fictional users of the Amazon Prime subscription service. 
 Each entry in the dataset includes details such as the user's name, email address, location, subscription plan, payment information, and engagement metrics. 
 Additionally, demographic data such as gender and date of birth are provided, along with user preferences such as favorite genres and devices used to access the platform.
 [Dataset](https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset)
