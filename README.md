@@ -1,4 +1,4 @@
-# Power-BI---Amazon-User-Analyisis-Proejct
+# Power-BI  Amazon-User-Analyisis-Proejct
 
 This project is to showcase PowerBI Skills performed on a dataset.
 
